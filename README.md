@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aynur</h1>
-<h3 align="center">SOFTWARE DEVELOPER</h3>
+<h3 align="center">CYBER SECURITY RESEARCHER</h3>
 
 <p align="left"> <img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e471t6j2922nwku53m4rv041fjz7pyu3ocryag45pdd&rid=giphy.gif&ct=g" alt="aynurbalci" /> </p>
 
